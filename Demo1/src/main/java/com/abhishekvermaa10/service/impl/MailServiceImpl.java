@@ -13,7 +13,7 @@ import jakarta.mail.internet.MimeMessage;
 /**
  * @author abhishekvermaa10
  */
-public class MailServicveImpl implements MailService {
+public class MailServiceImpl implements MailService {
 	
 	private static final Session SESSION = MailConfig.getSession();
 	private static final String SENDER_EMAIL = MailConfig.get("mail.username");

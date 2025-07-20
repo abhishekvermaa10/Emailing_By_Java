@@ -3,7 +3,7 @@ package com.abhishekvermaa10;
 import java.util.Scanner;
 
 import com.abhishekvermaa10.service.MailService;
-import com.abhishekvermaa10.service.impl.MailServicveImpl;
+import com.abhishekvermaa10.service.impl.MailServiceImpl;
 
 /**
  * @author abhishekvermaa10
@@ -18,7 +18,7 @@ public class App {
 			String subject = scanner.nextLine();
 			System.out.print("Enter message body: ");
 			String body = scanner.nextLine();
-			MailService mailService = new MailServicveImpl();
+			MailService mailService = new MailServiceImpl();
 			String response = mailService.sendBasicMail(recipientEmail, subject, body);
 			System.out.println(response);
 		} catch (Exception e) {
