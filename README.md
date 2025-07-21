@@ -11,6 +11,7 @@
 <h3 align="left">📌 Table of Contents</h3>
 <ol align="left">
     <li>Java Mail Tutorial for Beginners SMTP Email in Java with Maven</li>
+    <li>Send Email with Attachment using SMTP Email in Java with Maven</li>
 </ol>
 
 <hr>
