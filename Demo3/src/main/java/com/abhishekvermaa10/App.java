@@ -24,7 +24,7 @@ public class App {
 	        MailService mailService = new MailServiceImpl();
 	        String response;
 	        if (attachOption.equals("yes")) {
-	            File attachment = new File("sample.jpg");
+	        	File attachment = new File(App.class.getClassLoader().getResource("images/sample.jpg").toURI());
 	            response = mailService.sendAdvancedMail(recipientEmail, subject, body, attachment);
 	        } else {
 	            response = mailService.sendBasicMail(recipientEmail, subject, body);
