@@ -13,7 +13,8 @@
     <li>Java Mail Tutorial for Beginners SMTP Email in Java with Maven</li>
     <li>Send Email with Attachment using SMTP Email in Java with Maven</li>
     <li>Send Rich Text Email using Freemarker and SMTP Email in Java with Maven</li>
-    <li>Send Basic Mail using Spring Boot</li>
+    <li>Send Your First Email in Spring Boot</li>
+	<li>Professional HTML Emails with Attachments using Spring Boot + Freemarker</li>
 </ol>
 
 <hr>
