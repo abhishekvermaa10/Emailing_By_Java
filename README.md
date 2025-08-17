@@ -15,6 +15,7 @@
     <li>Send Rich Text Email using Freemarker and SMTP Email in Java with Maven</li>
     <li>Send Your First Email in Spring Boot</li>
 	<li>Professional HTML Emails with Attachments using Spring Boot + Freemarker</li>
+	<li>Send User-Submitted Data & Files via Email in Spring Boot</li>
 </ol>
 
 <hr>
