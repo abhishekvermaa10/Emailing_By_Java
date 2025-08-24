@@ -16,6 +16,7 @@
     <li>Send Your First Email in Spring Boot</li>
 	<li>Professional HTML Emails with Attachments using Spring Boot + Freemarker</li>
 	<li>Send User-Submitted Data & Files via Email in Spring Boot</li>
+	<li>Send Emails in the Background with Spring Boot Async</li>
 </ol>
 
 <hr>
@@ -145,6 +146,10 @@ You can learn these topics from my YouTube channel through dedicated playlists.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50"
             alt="Git" />
     </a>
+	<a href="https://mailpit.axllent.org/docs/install" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mailpit.svg" height="50"
+			alt="MailPit" /> 
+	</a>  
 </div>
 
 <hr>
