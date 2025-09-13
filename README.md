@@ -17,6 +17,7 @@
 	<li>Professional HTML Emails with Attachments using Spring Boot + Freemarker</li>
 	<li>Send User-Submitted Data & Files via Email in Spring Boot</li>
 	<li>Send Emails in the Background with Spring Boot Async</li>
+	<li>Send Emails locally with MailPit in Spring Boot</li>
 </ol>
 
 <hr>
